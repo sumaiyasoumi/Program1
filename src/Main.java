@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Hello");
         int a=2;
         int b=3;
-        c=(a+b);
+        int c=(a+b);
         System.out.println("c");
 
     }
